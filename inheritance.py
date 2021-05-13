@@ -1,0 +1,1 @@
+# Inheritance helps in the code reusability. Just like a child inherits their parents' qualities, the class that inherits properties is known as a child class, and the class from which it inherits the properties is called the parent class. Let's take a look at an example to understand this better.
